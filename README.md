@@ -37,7 +37,8 @@ Once you have a folder with proper Xcursor files, move it to either:
 
 
 # Notes
-
+- Right now the script creates copies instead of making symbolic links for icons that share the icon data but differ in name. Minor performance overhead for the system.
+- Entries in `mappings.txt` were filled by hand through an eyeball search, mistakes may have been made. Feel free to tweak `mappings.txt` to your liking.
 
 # Project TODO
 - fork win2xcur and integrate with project OR write own cursor conversion code (unlikely lol)
