@@ -1,9 +1,3 @@
-# 1. Read all files in input folder and build a key-side dictionary
-# 2. Use mappings.txt to fill the values of the dictionary
-# 3. Convert input folder using win2xcur (call win2xcur from terminal)
-# 4. For every file in output folder as key, convert it to values from the dictionary
-# 5. Convert 'default' or 'pointer' to thumbnail.png
-
 import os
 import sys
 import shutil
