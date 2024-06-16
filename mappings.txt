@@ -1,0 +1,42 @@
+Alternate Select = up-arrow
+
+Busy = wait, watch
+
+Diagonal Resize 1 = nw-resize, nwse-resize, se-resize, size_fdiag
+
+Diagonal Resize 2 = ne-resize, nesw_resize, size_bdiag, sw-resize
+
+Handwriting = pencil
+
+Help Select = whats_this, help, left_ptr_help, 5c6cd98b3f3ebcb1f9c7f1c204630408
+
+Horizontal Resize = w-resize, size_hor, sb_h_double_arrow, h_double_arrow, e-resize, ew-resize
+
+Link Select = pointer, pointing_hand, 9d800788f1b08800ae810202380a0822, e29285e634086352946a0e7090d73106, hand1, hand2
+
+Location Select = -
+
+Move = all-scroll, fleur, size_all
+
+Normal Select = arrow, default, left_ptr, mouse, size-bdiag, size-fdiag, size-hor, size-ver, top_left_arrow
+
+Person Select = -
+
+Precision Select = cell, cross, crosshair, tcross
+
+Text Select = text, xterm, ibeam
+
+Unavailable = circle, crossed_circle, not-allowed, 03b6e0fcb3499374a867c041f52298f0
+
+Vertical Resize = 00008160000006810000408080010102, n-resize, ns-resize, sb_v_double_arrow, size_ver, s-resize, v_double_arrow
+
+Working in Background = progress, half-busy, left_ptr_watch, 3ecb610c1bf2410f44200f48c40d3599, 08e8e1c95fe2fc01f976f1e063a24ccd, 00000000000000020006000e7e9ffc3f
+
+
+
+undefined-zoomin = zoom-in
+
+undefined-zoomout = zoom-out
+
+undefined-copy = copy, dnd-copy, 1081e37283d90000800003c07f3ef6bf, 6407b0e94181790501fd1e167b474872, b66166c04f8c3109214a4fbd64a50fc8
+
